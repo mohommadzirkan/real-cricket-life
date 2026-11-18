@@ -1,0 +1,8 @@
+{
+  "name": "REAL CRICKET LIFE",
+  "description": "Realistic 3D WebGL cricket simulation prototype featuring batting, bowling, fielding, team management, career progression, virtual economy, and VR-ready camera architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
